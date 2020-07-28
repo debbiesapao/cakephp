@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\Model",
+    "\\src\\Model\\Behavior",
+    "\\src\\Template",
+    "\\src\\Template\\Layout",
+    "\\tmp",
+    "\\webroot",
+    "\\webroot\\css",
+    "\\webroot\\js"
+  ],
+  "SelectedNode": "\\src\\Controller\\AppController.php",
+  "PreviewInSolutionExplorer": false
+}
